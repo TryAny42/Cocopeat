@@ -1332,20 +1332,20 @@ padding: 10px 11px;
 }
 } 
 @media (max-width: 480px){ 
-    .carousel .caption h2 {
-        font-size: 30px; /* Adjust the font size as needed */
-        text-align: center;
+.carousel .caption h2 {
+    font-size: 24px; /* Adjust the font size as needed */
+    text-align: center;
 }
 
 .carousel .caption strong {
-        font-size: 40px; /* Adjust the font size as needed */
-        text-align: center;
+    font-size: 32px; /* Adjust the font size as needed */
+    text-align: center;
 }
 
 .carousel .caption {
-        top: 50%; /* Center vertically */
-        transform: translateY(-50%);
-        padding: 0 15px; /* Add some padding for better readability */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%);
+    padding: 0 10px; /* Add some padding for better readability */
 }
 .navStyle {
 float: left;
